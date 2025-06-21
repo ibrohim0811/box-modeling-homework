@@ -1,0 +1,50 @@
+.sarlavha {
+    text-align: center;
+    background-color: brown;
+    color: white;
+    margin: 0 auto;
+    font-size: 30px;
+    width: 250px;
+    height: 50px;
+    padding-top: 12px;
+}
+
+body {
+    background-color: darkslategrey;
+    border-radius: 0;
+}
+
+.box {
+    background-color: black;
+    border: 4px solid red;
+    margin: 32px auto;
+    text-align: center;
+    width: 1000px;
+    height: 638px;
+    box-sizing: border-box;
+}
+
+.firstbox {
+    background-color: aqua;
+    text-align: start;
+    margin: 28px auto;
+    width: 869px;
+    height: 259px;
+    font-size: larger;
+}
+
+.text1 {
+    text-align: start;
+    font-size: larger;
+    text-transform: capitalize;
+    height: 257px;
+}
+
+.secondbox {
+    width: 869px;
+    height: 259px;
+    background-color: aqua;
+    margin: 52px auto;
+      text-align:start ;
+      font-size: 20px;
+}
